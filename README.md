@@ -4,8 +4,9 @@
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/jerrycoriolan/Cloud-SOC)
  
-- <b>Vulnerability Management Lifecyle / Sandbox</b>
-  - https://github.com/jerrycoriolan/Vulnerability-Managment-Lifecycle-in-Sandbox
+- <b>Vulnerability Management Projects</b>
+  - [Vulnerabilty Management Lifecycle](https://github.com/jerrycoriolan/Vulnerability-Managment-Lifecycle-in-Sandbox)
+  
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
