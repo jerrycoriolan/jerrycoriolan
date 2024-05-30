@@ -6,7 +6,7 @@
 
 - <b>Incident Response Projects</b>
    - [Manually creating analytics rules in SIEM](https://github.com/jerrycoriolan/Manually-creating-analytics-rules-in-Sentinel/blob/main/README.md)
-
+   - [Importing automated rules, triggering, and investigating alerts in SIEM](https://github.com/jerrycoriolan/Importing-triggering-automatic-alerts/blob/main/README.md)
 - <b>Vulnerability Management Projects</b>
   - [Vulnerabilty Management Lifecycle](https://github.com/jerrycoriolan/Vulnerability-Managment-Lifecycle-in-Sandbox)
 
