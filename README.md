@@ -3,7 +3,10 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/jerrycoriolan/Cloud-SOC)
- 
+
+- <b>Incident Response Projects</b>
+   - [Manually creating analytics rules in SIEM](https://github.com/jerrycoriolan/Manually-creating-analytics-rules-in-Sentinel/blob/main/README.md)
+
 - <b>Vulnerability Management Projects</b>
   - [Vulnerabilty Management Lifecycle](https://github.com/jerrycoriolan/Vulnerability-Managment-Lifecycle-in-Sandbox)
 
