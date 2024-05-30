@@ -6,9 +6,11 @@
  
 - <b>Vulnerability Management Projects</b>
   - [Vulnerabilty Management Lifecycle](https://github.com/jerrycoriolan/Vulnerability-Managment-Lifecycle-in-Sandbox)
-  
 
+- <b>Network Analysis Malware</b>  
+  - [Network Analysis Phishing (Malware)](https://github.com/jerrycoriolan/Network-Analysis-Phishing)
 <!--
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
