@@ -5,7 +5,7 @@
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/jerrycoriolan/Cloud-SOC)
 
 - <b>Incident Response Projects</b>
-   - [Manually creating analytic rule in SIEM](https://github.com/jerrycoriolan/Manually-creating-analytics-rules-in-Sentinel/blob/main/README.md)
+   - [Manually creating an analytic rule in SIEM](https://github.com/jerrycoriolan/Manually-creating-analytics-rules-in-Sentinel/blob/main/README.md)
    - [Responding to an incident alert in SIEM](https://github.com/jerrycoriolan/Importing-triggering-automatic-alerts/blob/main/README.md)
 - <b>Vulnerability Management Projects</b>
   - [Vulnerabilty Management Lifecycle](https://github.com/jerrycoriolan/Vulnerability-Managment-Lifecycle-in-Sandbox)
