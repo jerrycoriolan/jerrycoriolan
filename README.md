@@ -11,7 +11,7 @@
   - [Vulnerabilty Management Lifecycle](https://github.com/jerrycoriolan/Vulnerability-Managment-Lifecycle-in-Sandbox)
 
 - <b>Network Analysis Phishing Malware</b>  
-  - [Network Analysis Wireshark/Zui](https://github.com/jerrycoriolan/Network-Analysis-Phishing)
+  - [Network Analysis with Wireshark/Zui](https://github.com/jerrycoriolan/Network-Analysis-Phishing)
 <!--
 
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
