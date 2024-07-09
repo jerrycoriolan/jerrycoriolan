@@ -1,13 +1,14 @@
 <h1>Hi, I'm Jerry! Cybersecurity Professional
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure / Cloud Projects</b>
+- <b>GRC Projects</b>
+  
+- <b>Microsoft Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/jerrycoriolan/Cloud-SOC)
+  - [Manually creating an analytic rule in SIEM](https://github.com/jerrycoriolan/Manually-creating-analytics-rules-in-Sentinel/blob/main/README.md)
+  - [Responding to an incident alert in SIEM](https://github.com/jerrycoriolan/Importing-triggering-automatic-alerts/blob/main/README.md)
 
-- <b>Incident Response Projects</b>
-   - [Manually creating an analytic rule in SIEM](https://github.com/jerrycoriolan/Manually-creating-analytics-rules-in-Sentinel/blob/main/README.md)
-   - [Responding to an incident alert in SIEM](https://github.com/jerrycoriolan/Importing-triggering-automatic-alerts/blob/main/README.md)
-- <b>Vulnerability Management Projects</b>
+- - <b>Vulnerability Management Projects</b>
   - [Vulnerabilty Management Lifecycle](https://github.com/jerrycoriolan/Vulnerability-Managment-Lifecycle-in-Sandbox)
 
 - <b>Network Analysis Phishing Malware</b>  
