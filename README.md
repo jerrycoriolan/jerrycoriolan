@@ -3,6 +3,7 @@
 
 - <b>GRC Projects</b>
   - [GRC Risk and Maturity Assessment Lab](https://github.com/jerrycoriolan/Risk-and-Maturity-Assessment-Lab/blob/main/README.md)
+  - [Windows Server Hardening](https://github.com/jerrycoriolan/Windows-Server-Hardening/blob/main/README.md)
     
 - <b>Microsoft Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/jerrycoriolan/Cloud-SOC)
