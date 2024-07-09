@@ -2,7 +2,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>GRC Projects</b>
-  
+  - [GRC Risk and Maturity Assessment Lab](https://github.com/jerrycoriolan/Risk-and-Maturity-Assessment-Lab/blob/main/README.md)
+    
 - <b>Microsoft Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/jerrycoriolan/Cloud-SOC)
   - [Manually creating an analytic rule in SIEM](https://github.com/jerrycoriolan/Manually-creating-analytics-rules-in-Sentinel/blob/main/README.md)
