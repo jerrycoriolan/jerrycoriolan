@@ -24,7 +24,8 @@
 - <b>Vulnerability Management Projects</b>
   - [Vulnerabilty Management Lifecycle](https://github.com/jerrycoriolan/Vulnerability-Managment-Lifecycle-in-Sandbox)
 
-- <b>Network Analysis with Wireshark</b>  
+- <b>Network Analysis with Wireshark</b>
+  - [Analyze Packets](https://github.com/jerrycoriolan/Filtering-Network-Traffic/blob/main/README.md)
   - [Network Analysis Phishing Malware](https://github.com/jerrycoriolan/Network-Analysis-Phishing)
 <!--
 
