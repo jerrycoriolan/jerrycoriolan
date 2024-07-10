@@ -8,6 +8,8 @@
   - [NIST Cyber Assessment Lab](https://github.com/jerrycoriolan/NIST-Cybersecurity-Assessment)
   - [Risk Analysis Lab](https://github.com/jerrycoriolan/Risk-Analysis/blob/main/README.md)
   - [Asset Management Lab](https://github.com/jerrycoriolan/Asset-Management-Lab)
+  - [DLP Assessment Lab](https://github.com/jerrycoriolan/DLP-Pratical-Assessment-Lab/blob/main/README.md)
+    
 
     
 - <b>Microsoft Azure / Cloud Projects</b>
