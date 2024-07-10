@@ -9,6 +9,8 @@
   - [Risk Analysis Lab](https://github.com/jerrycoriolan/Risk-Analysis/blob/main/README.md)
   - [Asset Management Lab](https://github.com/jerrycoriolan/Asset-Management-Lab)
   - [DLP Assessment Lab](https://github.com/jerrycoriolan/DLP-Pratical-Assessment-Lab/blob/main/README.md)
+  - [Identity & Access Management Lab](https://github.com/jerrycoriolan/Identity-Access-Management/blob/main/README.md )
+  
     
 
     
