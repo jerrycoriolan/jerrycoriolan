@@ -7,6 +7,7 @@
   - [Windows Server Hardening Lab](https://github.com/jerrycoriolan/Windows-Server-Hardening/blob/main/README.md)
   - [NIST Cyber Assessment Lab](https://github.com/jerrycoriolan/NIST-Cybersecurity-Assessment)
   - [Risk Analysis Lab](https://github.com/jerrycoriolan/Risk-Analysis/blob/main/README.md)
+  - [Asset Management Lab](https://github.com/jerrycoriolan/Asset-Management-Lab)
 
     
 - <b>Microsoft Azure / Cloud Projects</b>
