@@ -23,6 +23,7 @@
 
 - <b>Querying Projects</b>
   - [Filter SQL Queries](https://github.com/jerrycoriolan/Filter-SQL-Queries/blob/main/README.md)
+  - [SQL Queries](https://github.com/jerrycoriolan/SQL-Queries/blob/main/README.md)
 
 - <b>Vulnerability Management Projects</b>
   - [Vulnerabilty Management Lifecycle](https://github.com/jerrycoriolan/Vulnerability-Managment-Lifecycle-in-Sandbox)
