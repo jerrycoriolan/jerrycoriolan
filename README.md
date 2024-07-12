@@ -25,6 +25,7 @@
   - [Vulnerabilty Management Lifecycle](https://github.com/jerrycoriolan/Vulnerability-Managment-Lifecycle-in-Sandbox)
 
 - <b>Network Analysis</b>
+  - [Suricata](https://github.com/jerrycoriolan/Suricata/blob/main/README.md)
   - [Analyze Packets Wireshark](https://github.com/jerrycoriolan/Filtering-Network-Traffic/blob/main/README.md)
   - [Network Analysis Phishing Malware Wireshark](https://github.com/jerrycoriolan/Network-Analysis-Phishing)
 <!--
