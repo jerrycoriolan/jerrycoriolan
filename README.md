@@ -21,6 +21,10 @@
   - [Responding to an incident alert in SIEM](https://github.com/jerrycoriolan/Importing-triggering-automatic-alerts/blob/main/README.md)
 
 
+- <b>Querying Projects</b>
+  - 
+
+
 - <b>Vulnerability Management Projects</b>
   - [Vulnerabilty Management Lifecycle](https://github.com/jerrycoriolan/Vulnerability-Managment-Lifecycle-in-Sandbox)
 
