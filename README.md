@@ -24,9 +24,9 @@
 - <b>Vulnerability Management Projects</b>
   - [Vulnerabilty Management Lifecycle](https://github.com/jerrycoriolan/Vulnerability-Managment-Lifecycle-in-Sandbox)
 
-- <b>Network Analysis with Wireshark</b>
-  - [Analyze Packets](https://github.com/jerrycoriolan/Filtering-Network-Traffic/blob/main/README.md)
-  - [Network Analysis Phishing Malware](https://github.com/jerrycoriolan/Network-Analysis-Phishing)
+- <b>Network Analysis</b>
+  - [Analyze Packets Wireshark](https://github.com/jerrycoriolan/Filtering-Network-Traffic/blob/main/README.md)
+  - [Network Analysis Phishing Malware Wireshark](https://github.com/jerrycoriolan/Network-Analysis-Phishing)
 <!--
 
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
